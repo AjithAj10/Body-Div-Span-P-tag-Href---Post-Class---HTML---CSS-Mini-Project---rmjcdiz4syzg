@@ -35,7 +35,7 @@
 <p>Email : ajithraveendranr@gmail.com</p>
 <h3>Roadmap</h3>
 <hr/>
-<p>My latest works will be updated here...</p>
+<p>My latest works(Photos) will be updated here...</p>
 <h3>Project status</h3>
 <hr/>
 <p>The project is completed as mentioned by the newton school,
